@@ -6,3 +6,5 @@ npm install @tremor/react -- uninstall
 npm install chart.js react-chartjs-2 -- uninstall
 
 npm uninstall nombre-de-la-biblioteca
+
+MAIN CODE WEBSITE
